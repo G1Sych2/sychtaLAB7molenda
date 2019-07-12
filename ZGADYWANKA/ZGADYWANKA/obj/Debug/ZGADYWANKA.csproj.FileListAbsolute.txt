@@ -1,0 +1,12 @@
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\bin\Debug\ZGADYWANKA.exe.config
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\bin\Debug\ZGADYWANKA.exe
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\bin\Debug\ZGADYWANKA.pdb
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\obj\Debug\ZGADYWANKA.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\obj\Debug\ZGADYWANKA.Form1.resources
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\obj\Debug\ZGADYWANKA.Properties.Resources.resources
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\obj\Debug\ZGADYWANKA.csproj.GenerateResource.cache
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\obj\Debug\ZGADYWANKA.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\obj\Debug\ZGADYWANKA.exe
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\obj\Debug\ZGADYWANKA.pdb
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\obj\Debug\ZGADYWANKA.Info.resources
+C:\Users\Tomek\Desktop\ZGADYWANKA\ZGADYWANKA\obj\Debug\ZGADYWANKA.FormStatystyki.resources
